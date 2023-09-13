@@ -32,7 +32,7 @@ resource "aws_elb" "bar" {
   availability_zones      = ["ap-southeast-1a", "ap-southeast-1b"]
   database_name           = "mydb"
   master_username         = "pranathi"
-  master_password         = "Rahamshaik#444555"
+  master_password         = "Pranathi2114"
   backup_retention_period = 5
   preferred_backup_window = "07:00-09:00"
 }*/
